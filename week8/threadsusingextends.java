@@ -23,6 +23,7 @@ catch(InterruptedException e){
 }
 class main{
 public static void main(String args[]){
+System.out.println("Anjana Manoj\n1BM23CS038");
 Multithreading1 m1=new Multithreading1();
 m1.start();
 Multithreading2 m2=new Multithreading2();
