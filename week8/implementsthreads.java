@@ -23,6 +23,7 @@ catch(InterruptedException e){
 }
 class implementsthreads{
 public static void main(String args[]){
+System.out.println("Anjana Manoj\n1BM23CS038");
 Multithreading1 m1=new Multithreading1();
 Thread mt1=new Thread(m1);
 mt1.start();
